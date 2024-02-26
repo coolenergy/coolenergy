@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **something valuable for you all.**
 
-- 💬 Ask me about **Java, Python, LLMs, Backend, System Architecture**
+- 💬 Ask me about **JavaScript, TypeScript, Golang, Java, Python, LLMs, Backend, System Architecture**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
