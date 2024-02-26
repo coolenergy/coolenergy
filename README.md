@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am a Senior Full-Stack Enginner, 7 years of experience
 
 <!--
 **sanmega/sanmega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
