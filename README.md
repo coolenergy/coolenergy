@@ -51,7 +51,7 @@
      <td>
        
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sanmega&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
-     <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeazin&theme=radical&layout=compact)](https://github.com/sanmega) </td>
+     <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanmega&theme=radical&layout=compact)](https://github.com/sanmega) </td>
    </tr>
   </table>
   
