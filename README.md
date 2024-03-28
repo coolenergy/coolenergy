@@ -59,7 +59,7 @@
 
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h2>
 
-- <b>Languages</b> : JavaScript, TypeScript, Node.JS, Golang, Java, Python
+- <b>Languages</b> : Golang, Java, Python, JavaScript, TypeScript
 - <b>Web Frontend</b> : React.js, Next.js, Angular
 - <b>Backend</b> : Node.js / Express, Golang, Java / Spring / Spring Boot, Python / Django / Flask / FastAPI
 - <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite
