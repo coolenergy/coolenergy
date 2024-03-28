@@ -87,7 +87,7 @@
 <h3 align="left">Backend</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,golang,java,python,django,flask,spring" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,golang,java,python,django,flask,spring" />
   </a>
 </p>
 <h3 align="left">Mobile</h3>
