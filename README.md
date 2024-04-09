@@ -7,7 +7,7 @@
 
 <div>
   
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sanmega&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/sanmega)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=coolhyb&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/coolhyb)
 </div>
 
 
@@ -50,8 +50,8 @@
    <tr>
      <td>
        
-![Github stats](https://github-readme-stats.vercel.app/api?username=sanmega&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
-     <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanmega&theme=radical&layout=compact)](https://github.com/sanmega) </td>
+![Github stats](https://github-readme-stats.vercel.app/api?username=coolhyb&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
+     <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coolhyb&theme=radical&layout=compact)](https://github.com/coolhyb) </td>
    </tr>
   </table>
   
@@ -128,7 +128,7 @@
 </p>
  -->
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=sanmega&label=Profile%20views&color=0e75b6&style=flat" alt="sanmega" /> 
+ <img src="https://komarev.com/ghpvc/?username=coolhyb&label=Profile%20views&color=0e75b6&style=flat" alt="coolhyb" /> 
 <!-- ![](https://komarev.com/ghpvc/?username=danieleverest) -->
 <!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" />
  <img alt="Profile followers" src="https://img.shields.io/github/followers/danieleverest"> -->
