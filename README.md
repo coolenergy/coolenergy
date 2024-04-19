@@ -13,21 +13,6 @@
 
 <!-- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>  -->
 
-## Connect with me
-
-<p align="left">
-  <a href = "mailto:mega921008@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"/></a>
-  <a target="_blank" href = "https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=linkedin&logoColor=blue"/></a>
-  <a target="_blank" href = "https://www.instagram.com/"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=red"/></a>
-  <a target="_blank" href = "https://www.facebook.com/"><img src="https://img.shields.io/badge/-Facebook-%23333?style=for-the-badge&logo=facebook&logoColor=blue"/></a>
-  <a target="_blank" href = "https://twitter.com/"><img src="https://img.shields.io/badge/-Twitter-%23333?style=for-the-badge&logo=twitter&logoColor=blue"/></a>
-  <a target="_blank" href = "https://discordapp.com/"><img src="https://img.shields.io/badge/-Discord-%23333?style=for-the-badge&logo=discord&logoColor=blue"/></a>
-  <a target="_blank" href = ""><img src="https://img.shields.io/badge/-Telegram-%23333?style=for-the-badge&logo=telegram&logoColor=blue"/></a>
-  <a target="_blank" href = ""><img src="https://img.shields.io/badge/-Skype-%23333?style=for-the-badge&logo=skype&logoColor=blue" /></a>
-  <a href = ""><img src="https://img.shields.io/badge/-Slack-%23333?style=for-the-badge&logo=slack&logoColor=white" target="_blank"/></a>
-<!--   https://discord.com/channels/1206443560690516069 -->
-</p>
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!--
