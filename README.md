@@ -27,7 +27,7 @@
 
 ## Hello, Welcome to my Github!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 
-<p>Hello! I'm Senior Full-Stack Developer with over 7 years of experience specializing in Web & Mobile application development</p>
+<p>Hello! I'm Senior Full-Stack Developer with over 7 years of experience specializing in Web & Mobile application development. I am proficient in video streaming industry.</p>
 
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats </h2>
 
