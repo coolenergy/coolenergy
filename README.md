@@ -32,10 +32,11 @@
 
  <table align="center" width="100%" height="100%" >
    <tr>
-     <td>
-       
-![Github stats](https://github-readme-stats.vercel.app/api?username=coolaland&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
-     <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coolaland&theme=radical&layout=compact)](https://github.com/coolaland) </td>
+    <td><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coolaland&show_icons=true&locale=en&layout=compact" alt="coolaland" /></p></td>
+
+  <td><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coolaland&show_icons=true&locale=en" alt="coolaland" /></p></td>
+
+<td><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coolaland&" alt="coolaland" /></p></td>
    </tr>
   </table>
   
