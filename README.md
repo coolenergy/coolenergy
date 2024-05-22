@@ -18,7 +18,7 @@
 -->
 
 
-## Hello, Welcome to my Github - Video Streaming, AI/ML, Full-Stack Engineer's House<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+## Hello, Welcome to my Github<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> - Video Streaming, AI/ML, Full-Stack Engineer's House
 
 <p>Hello! I'm Senior Full-Stack Developer with over 7 years of experience specializing in Web & Mobile application development. I am proficient in video streaming industry.</p>
 
