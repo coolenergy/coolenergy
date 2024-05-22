@@ -33,7 +33,7 @@
  <table align="center" width="100%" height="100%" >
    <tr>
      <td><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coolaland&show_icons=true&locale=en" alt="coolaland" /></p></td>
-    <td><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=th37rose&show_icons=true&locale=en&layout=compact" alt="coolaland" /></p></td>
+    <td><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coolaland&show_icons=true&locale=en&layout=compact" alt="coolaland" /></p></td>
    </tr>
   </tr>
   </table>
