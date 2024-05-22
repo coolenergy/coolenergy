@@ -22,6 +22,7 @@
 
 <p>Hello! I'm Senior Full-Stack Developer with over 7 years of experience specializing in Web & Mobile application development. I am proficient in video streaming industry.</p>
 
+<!--
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coolaland&label=Profile%20views&color=0e75b6&style=flat" alt="coolaland" /> </p>
@@ -43,7 +44,7 @@
    </tr>
   </table>
   
-
+-->
 
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h2>
 
