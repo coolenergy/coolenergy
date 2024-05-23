@@ -45,7 +45,7 @@
   </table>
   
 
-<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h2>
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Full-Stack Development</h2>
 
 - <b>Languages</b> : Golang, Java, Python, JavaScript, TypeScript
 - <b>Web Frontend</b> : React.js, Next.js, Angular
@@ -56,6 +56,12 @@
 - <b>Tools</b> : Git, Webpack, Atom
 - <b>UI/UX Design</b> : Figma, Adobe XD, Photoshop
 
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=camera.gif" width ="25"> Video Streaming & CV & AI</h2>
+
+- <b>Libraries</b> : FFmpeg, Gstreamer, OpenCV
+- <b>Codecs & Protocols</b> : H.264/265, VP8/9 | HLS, MPEG-DASH, RTSP, RTMP, WebRTC, SRT
+- <b>Servers</b> : AWS Elemental, Kinesis Video Stream, RED5, Wowza, Nginx
+- <b>Gen AI</b> : ChatGPT, GPT-4, LangChain, Stable Diffusion, Midjourney, DALL-E, Gemini, LLaMA, Falcon
 
 ## Languages & Tools
 
