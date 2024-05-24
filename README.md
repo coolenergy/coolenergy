@@ -25,9 +25,9 @@
 
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats </h2>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=coolenergy&label=Profile%20views&color=0e75b6&style=flat" alt="coolenergy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=coolenergy&label=Profile%20views&color=0e75b6&style=flat" alt="coolenergy" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coolenergy&column=5&margin-w=15&margin-h=15" alt="coolenergy" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coolenergy&column=9" alt="coolenergy" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
