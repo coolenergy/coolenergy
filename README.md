@@ -20,7 +20,7 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">Hello, Welcome to my Github - Video Streaming, AI/ML, Full-Stack Engineer's House
 
-<p>👋 Hi there! I am a Senior Full-Stack Developer with over 10 years of experience, specializing in React.js, React Native, and Next.js. I excel in creating pixel-perfect, reusable components that ensure easy maintenance and cost-effective development. Additionally, I have extensive experience in the video streaming industry, with expertise in both Live and VoD streaming. I also have hands-on experience in AI/ML technologies, particularly in Generative AI, having worked on various projects that can help scale your business and increase profits.</p>
+<p>I am a Senior Full-Stack Developer with over 10 years of experience, specializing in React.js, React Native, and Next.js. I excel in creating pixel-perfect, reusable components that ensure easy maintenance and cost-effective development. Additionally, I have extensive experience in the video streaming industry, with expertise in both Live and VoD streaming. I also have hands-on experience in AI/ML technologies, particularly in Generative AI, having worked on various projects that can help scale your business and increase profits.</p>
 <br/>
 <p>📌 Full-Stack Development:</p>
 <p>✔ Languages: JavaScript, TypeScript, Node.js, Golang, Python, Java</p>
