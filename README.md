@@ -21,36 +21,6 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">Hello, Welcome to my Github - Video Streaming, AI/ML, Full-Stack Engineer's House
 
 <p>I am a Senior Full-Stack Developer with over 10 years of experience, specializing in React.js, React Native, and Next.js. I excel in creating pixel-perfect, reusable components that ensure easy maintenance and cost-effective development. Additionally, I have extensive experience in the video streaming industry, with expertise in both Live and VoD streaming. I also have hands-on experience in AI/ML technologies, particularly in Generative AI, having worked on various projects that can help scale your business and increase profits.</p>
-<br/>
-<p>📌 Full-Stack Development:</p>
-<p>✔ Languages: JavaScript, TypeScript, Node.js, Golang, Python, Java</p>
-<p>✔ Front-end: React, React Native, Next.js, Angular.js, Angular</p>
-<p>✔ Back-end: Node.js/Express.js/Nest.js, Python/Django/Flask/FastAPI, Golang/Gin/Echo/Fiber, Java/Spring Boot/Spring,</p>
-<p>✔ UI/CSS Frameworks: Material UI, Bootstrap, Tailwind CSS, Sass</p>
-<p>✔ APIs: GraphQL, RESTful API, JSON-RPC, XML-RPC, SOAP</p>
-<p>✔ Databases: MySQL, MongoDB, PostgreSQL</p>
-<p>✔ Cloud & DevOps: AWS, GCP, K8, Docker, Jenkins, Terraform, Firebase, Supabase</p>
-<br/>
-<p>📌 Video Streaming</p>
-<p>✔ Video encoding/decoding, Muxing/Demuxing</p>
-<p>✔ Ffmpeg, Gstreamer</p>
-<p>✔ RTSP, RTMP, HLS, MPEG-DASH, WebRTC, SRT</p>
-<p>✔ H.264, H.265, VP9</p>
-<p>✔ AWS Kinesis Video Stream, AWS Elemental Services, Wowza, Nginx</p>
-<br/>
-<p>📌 Artificial Intelligence and Machine Learning:</p>
-<p>✔ Machine Learning: Scikit-learn, TensorFlow, PyTorch</p>
-<p>✔ Deep Learning: Neural Networks, Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs)</p>
-<p>✔ Natural Language Processing: NLTK, spaCy, GPT-3 API Integration</p>
-<p>✔ Computer Vision: OpenCV, PIL</p>
-<br/>
-<p>📌 Generative AI:</p>
-<p>✔ ChatGPT, GPT-4, LangChain, Stable Diffusion, Midjourney, DALL-E, Gemini, LLaMA, Falcon</p>
-<br/>
-<p>Thank you for considering my profile. </p>
-<p>I look forward to the opportunity to contribute to your projects.
-</p>
-
 
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats </h2>
 
